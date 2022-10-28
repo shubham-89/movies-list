@@ -1,0 +1,42 @@
+/* header style */
+
+.header{
+    background-color: black;
+    color: white;
+    padding: 1.2rem;
+    display: flex;
+    /* margin: 10px; */
+}
+
+.logo{
+   margin-left: 6.2rem; 
+}
+
+.moviItem{
+    display:inline-block;
+    margin-left: 6rem;
+
+}
+.moviText{
+    display: flex;
+ flex-direction: column;
+ 
+}
+p{
+    margin-top: 10px;
+}
+
+.moviImage{
+    width: 200px;
+    height: 250px;
+    margin-top: 10px;
+}
+.text{
+    text-align: left;
+
+    width: 200px;
+    /* height: 250px; */
+  line-height: 1.7rem;
+}
+
+/* ================================== */
